@@ -1,9 +1,114 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T17:50:35.506Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="22.0.4" etag="c3nr-gm_FE7MPFDMMrF2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-11T17:47:29.629Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="KNrOayUmTH87gxNhT1bi" version="22.0.4" type="github">
   <diagram name="Page-1" id="7BegVZmtpEOkkxtolkV-">
-    <mxGraphModel>
+    <mxGraphModel dx="1290" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="E9o07feoXJt3KzkXgWuz-1" value="youtube @AlwazeHaze" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="10" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Google Docs System Desgin&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="40" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-3" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;functional Requirements :&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1 . Storing of Data&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2 . parallel syncing of Sheets&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3 . Previous saved copies by time&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-4" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;font-size: 14px; background-color: initial;&quot;&gt;Non functional Requirements:&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1 . Availability&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2 . Latency&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3 .&amp;nbsp; Accessbility&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="90" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-5" value="Parallel Editing :&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="220" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-6" value="HELLO" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-7" value="World" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="335" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E9o07feoXJt3KzkXgWuz-8" target="E9o07feoXJt3KzkXgWuz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-8" value="User 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="228" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E9o07feoXJt3KzkXgWuz-9" target="E9o07feoXJt3KzkXgWuz-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-9" value="User 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="228" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-14" value="User 1 changes HELLO to HELLO!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="380" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-15" value="User 2 changes HELLO to HELO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="380" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="420" as="sourcePoint" />
+            <mxPoint x="150" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="450" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="520" as="sourcePoint" />
+            <mxPoint x="290" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="520" as="sourcePoint" />
+            <mxPoint x="320" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-22" value="HELO!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-23" value="A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="155" y="438" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-24" value="B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="415" y="428" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-25" value="B&#39;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="598" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-26" value="A&#39;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="588" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-27" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;About the algorithm :&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Operational Transform&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;followed by the formula:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;xform(a,b) = (a&#39; , b&#39;) where b&#39;oa = a&#39;ob&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;operational transform is an algorithm developed&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;by Google to maintain concurrency control of the application&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="265" width="350" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-29" value="Design of Google Docs :&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="740" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-31" value="&lt;div style=&quot;text-align: justify;&quot;&gt;Concurrency control can also be achieved by another algorithm :&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;CRDT(conflict-free replicated datatype)&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;This can be achieved by marking the indexes by decimal numbers&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;so that once some changes made the data can be dealed with&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;the relative&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;decimal indexes&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="380" width="370" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-33" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_stack/User_Subscriptions.svg;" vertex="1" parent="1">
+          <mxGeometry x="50" y="879" width="51.52" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-34" value="user/editor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="49.99999999999999" y="910" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-35" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.cpu_socket;" vertex="1" parent="1">
+          <mxGeometry x="190" y="832" width="60" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-36" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.cpu_socket;" vertex="1" parent="1">
+          <mxGeometry x="190" y="890" width="60" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-37" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.cpu_socket;" vertex="1" parent="1">
+          <mxGeometry x="190" y="950" width="60" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="E9o07feoXJt3KzkXgWuz-40" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.classic_load_balancer;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="136" y="890" width="29" height="32" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
