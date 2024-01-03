@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T10:22:19.245Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="GrEMTlNyTvGn1xXpwZZw" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-03T11:11:39.936Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="RzX1vUoHnrh7KkdO6LFe" version="22.1.16" type="github">
   <diagram name="Page-1" id="cMrX50yQtDMuLtWBUuMw">
-    <mxGraphModel dx="1172" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1846" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -167,6 +167,15 @@
         </mxCell>
         <mxCell id="Yky2UH1x7Lx8lQOBtTjD-31" value="cdn for content delivery" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="43" y="653" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yky2UH1x7Lx8lQOBtTjD-32" value="Metrics calculations :&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="40" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Yky2UH1x7Lx8lQOBtTjD-33" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;sales team size : 100+ full time employees&lt;/div&gt;&lt;div&gt;customer base : 5000+&lt;/div&gt;&lt;div&gt;company sales volume : 400-500+ orders per day&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="100" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Yky2UH1x7Lx8lQOBtTjD-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Lets assume that on an average , there will be 5000 customers&lt;br&gt;and almost 500 orders per day,&lt;br&gt;That brings us &lt;b&gt;3 orders per month&lt;/b&gt; for a customer&amp;nbsp; .&lt;br&gt;there were 100+full&amp;nbsp; time employees and based on above metrics&amp;nbsp;&lt;br&gt;there should be &lt;b&gt;1 employee following the 50&lt;/b&gt; leads.&lt;br&gt;On calculating the overall orders we remain with &lt;b&gt;15000 orders per month&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="220" width="620" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
